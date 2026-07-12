@@ -106,9 +106,7 @@ The application is fully responsive and works across:
 
 ### Clone Repository
 
-```bash
-git clone https://github.com/your-username/theatre-booking-system.git
-```
+https://github.com/Suriyaprabha18/Theatre-Management-System.git
 
 ### Install Dependencies
 
